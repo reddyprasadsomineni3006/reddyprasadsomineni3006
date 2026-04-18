@@ -2,7 +2,7 @@
 
 **Python Developer | Data Engineer**
 
-Software Engineer with 4+ years of experience building scalable data pipelines, distributed systems, and analytics solutions. I enjoy turning raw data into reliable, production-ready systems that drive business decisions.
+Software Engineer with experience building scalable data pipelines, distributed systems, and analytics solutions. I enjoy turning raw data into reliable, production-ready systems that drive business decisions.
 
 📍 Based in the United States
 
@@ -10,7 +10,7 @@ Software Engineer with 4+ years of experience building scalable data pipelines, 
 
 ## About Me
 
-- 🔭 Currently working as a **Software Engineer at NAMO Technologies**
+- 🔭 Currently working as a **Software Engineer for a Telecom Client**
 - 🐍 Focused on **Python development** and **data engineering**
 - 📊 Microsoft Certified BI Developer with a strong background in analytics and reporting
 - 🎓 Master's in Information Systems — Central Michigan University
@@ -41,7 +41,6 @@ CI/CD · Git
 | NAMO Technologies | Software Engineer | Apr 2025 – Present |
 | Tetra Computing | Software Engineer | Sep 2024 – Apr 2025 |
 | Cognizant | Software Engineer | Nov 2020 – May 2022 |
-| Clover IT Services | Junior Software Engineer | Jun 2019 – Oct 2020 |
 
 ---
 
